@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maureen
-- 👀 I’m interested in Software Development
+ A Software Developer
 
 
 <!---
